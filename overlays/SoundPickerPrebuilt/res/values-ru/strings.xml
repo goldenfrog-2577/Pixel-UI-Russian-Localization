@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="the_next_adventure">Следующее приключение</string>
+    <string name="notification_saved">Звук уведомлений сохранен</string>
+    <string name="alarm_saved">Сигнал будильника сохранен</string>
+    <string name="ringtone_saved">Рингтон сохранен</string>
+    <string name="none">Без звука</string>
+    <string name="vibration_entry_label">Настройки вибрации</string>
+    <string name="silent">Без звука</string>
+</resources>

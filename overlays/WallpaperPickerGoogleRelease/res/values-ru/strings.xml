@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_theme_title">Цвет обоев</string>
+    <string name="wallpaper_set_successfully_message">Обои сохранены</string>
+    <string name="reset_confirmation_dialog_message">Изменения не будут сохранены</string>
+    <string name="wallpaper_studio_title">Студия обоев</string>
+    <string name="apply_wallpaper_title_text">Куда применить обои?</string>
+    <string name="wallpaper_color_subheader">Значки, текст и многое другое будет сочетаться по цвету с обоями</string>
+    <string name="preset_color_subheader">Выбирайте любой цвет для значков, часов и не только</string>
+    <string name="grid_layout">Рабочий стол</string>
+    <string name="clock_color_description">Подберите цвет к теме обоев или задайте собственный</string>
+    <string name="app_icons_style_minimal">Тематические</string>
+    <string name="app_icons_description">%1$s • %2$s</string>
+    <string name="lock_screen_notifications_section_description">Настройте внешний вид и содержание уведомлений</string>
+    <string name="keyguard_quick_affordance_title">Ярлыки</string>
+    <string name="more_settings_section_description">Виджеты, текст на заблок. экране и включение экрана</string>
+    <string name="keyguard_quick_affordance_section_title">Ярлыки</string>
+    <string name="lock_screen_tab">Экран блокировки</string>
+</resources>

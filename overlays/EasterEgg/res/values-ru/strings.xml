@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_delete">Забыть %s?</string>
+    <string name="control_food_status_empty">Пусто</string>
+    <string name="control_food_status_full">Полный</string>
+    <string name="control_food_subtitle">Нажмите, чтобы пополнить</string>
+    <string name="control_food_title">Миска еды</string>
+    <string name="control_toy_status">Кошка приглянулась!</string>
+    <string name="control_toy_subtitle">Нажмите для использования</string>
+    <string name="control_toy_title">Игрушка</string>
+    <string name="control_water_subtitle">Сдвиньте для пополнения</string>
+    <string name="control_water_title">Миска воды</string>
+    <string name="default_cat_name">Кот #%s</string>
+    <string name="default_tile_name">\"Кличка\"</string>
+    <string name="directory_name">Кошка</string>
+    <string name="notification_channel_name">Новая кошка</string>
+    <string name="notification_name">Android \"Кто-то\"</string>
+    <string name="notification_title">Здесь кошка</string>
+    <string name="q_egg_name">Значок опроса</string>
+    <string name="r_egg_name">Управление кошками</string>
+    <string name="s_egg_name">Прочие кусочки</string>
+</resources>
