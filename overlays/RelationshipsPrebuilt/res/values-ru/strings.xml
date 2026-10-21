@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Важные контакты Pixel</string>
+    <string name="local_update_invite_location_sharing_message">Вы были добавлены в мой список Pixel Важные контакты. Поделитесь, пожалуйста, своим текущим местоположением, чтобы мы могли оставаться на связи: %1$s. Мой адрес: %2$s.</string>
+    <string name="settings_description">Настройте разрешения для приложения \"Важные контакты Pixel\".</string>
+    <string name="splash_content_description">Анимация, показывающая функции Важные контакты Pixel</string>
+    <string name="network_error_message">Отсутствует подключение к Интернету. Некоторые функции могут быть недоступны.</string>
+</resources>

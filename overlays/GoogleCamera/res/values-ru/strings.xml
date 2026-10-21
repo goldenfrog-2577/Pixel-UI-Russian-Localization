@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_free_up_space">Хотите освободить место на устройстве?</string>
+    <string name="pref_free_up_space_summary">Перейдите в приложение Files, чтобы очистить хранилище</string>
+    <string name="tracking_status_not_reliable">Наведите камеру на область сканирования</string>
+    <string name="vid_chip_takes_time_to_process_vns">Чтобы улучшить видео, снятое ночью, потребуется некоторое время</string>
+    <string name="setting_google_help_and_feedback">Справка / отзыв</string>
+</resources>

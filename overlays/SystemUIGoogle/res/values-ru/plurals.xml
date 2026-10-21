@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="quick_settings_internet_hotspot_summary_num_devices">
+        <item quantity="other">%d устройства подключены</item>
+        <item quantity="one">%d устройство подключено</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Введите PIN-код. Осталось %d попытки.</item>
+        <item quantity="one">Введите PIN-код. Осталась %d попытка.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Введите PIN-код SIM %1$d, у вас осталось %2$d попыток.</item>
+        <item quantity="one">Введите PIN-код SIM %1$d, у вас осталось %2$d попыток, после чего вы должны связаться с оператором связи для разблокировки устройства.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неверный PIN-код. Осталось %d попытки.</item>
+        <item quantity="one">Неверный PIN-код. Осталась %d попытка.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Неверный PIN-код SIM %1$d, у вас осталось %2$d попыток.</item>
+        <item quantity="one">Неверный PIN-код SIM %1$d, у вас осталось %2$d попыток, после чего вы должны связаться с оператором связи для разблокировки вашего устройства.</item>
+    </plurals>
+    <plurals name="smartspace_hours">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="smartspace_minutes">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+</resources>

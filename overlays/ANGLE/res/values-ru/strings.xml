@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="angle_preferences_summary">Управление графическим движком ANGLE, который переводит команды OpenGL ES в Vulkan или другие API для улучшения стабильности и скорости работы приложений</string>
+</resources>

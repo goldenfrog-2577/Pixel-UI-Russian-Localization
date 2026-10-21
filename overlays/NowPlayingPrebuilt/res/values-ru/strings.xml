@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cloud_search_disabled_button_label_message">Функция \"Что сейчас играет?\" работает лучше, когда включен поиск в облаке</string>
+    <string name="connected_music_service_title">Аудиопроигрыватель по умолчанию</string>
+    <string name="disable_now_playing_dialog_message">Функция \"Что сейчас играет?\" перестанет распознавать треки, но вы по-прежнему сможете просматривать историю. Вы можете в любое время включить функцию \"Что сейчас играет?\" в настройках приложения.</string>
+    <string name="disable_now_playing_dialog_title">Отключить распознавание треков поблизости?</string>
+    <string name="downloading_song_database_message">Функция \"Что сейчас играет?\" скоро начнет автоматически распознавать музыку...</string>
+    <string name="enable_now_playing_summary_disabled">Если включить функцию \"Что сейчас играет?\", вам станут доступны обложки альбомов, поиск миллионов треков в облаке и многое другое</string>
+    <string name="enable_now_playing_title">Определять песни поблизости</string>
+    <string name="filter_search_time_night_time">Ночь</string>
+    <string name="music_recognition_button_unavailable_label">Функция \"Что сейчас играет?\" отключена</string>
+    <string name="music_recognition_button_unavailable_sublabel">Чтобы распознавать треки, включите в настройках функцию \"Что сейчас играет?\"</string>
+    <string name="onboarding_qs_tile_title">Добавьте функцию \"Что сейчас играет?\" в быстрые настройки</string>
+    <string name="preparing_update_dialog_message">"Скоро будет автоматически скачано обновление ПО. Вы сможете использовать функцию \"Что сейчас играет?\", когда завершится установка обновления.
+
+Вернитесь сюда через несколько часов."</string>
+    <string name="privacy_shield_summary">"Функция \"Что сейчас играет?\" распознает музыку, используя базу данных, которая хранится на устройстве. Система автоматического распознавания никогда не отправляет аудиофайлы или записи фоновых разговоров в Google, поэтому ваши данные останутся надежно защищены. Функция \"Что сейчас играет?\" сохраняет конфиденциальность вашей личной информации на всех этапах.
+
+Если ярлык \"Что сейчас играет?\" выведен на заблокированный экран, каждый раз, когда вы его зажимаете, Google получает короткий цифровой отпечаток и с его помощью определяет, какой трек звучит в данный момент.
+
+Поскольку функция \"Что сейчас играет?\" защищена механизмом ядра конфиденциальных вычислений, в ней нет индикатора микрофона и она не показывается в панели управления разрешениями."</string>
+    <string name="search_hint">Поиск по истории...</string>
+    <string name="setting_up_now_playing">Настраиваем функцию \"Что сейчас играет?\"...</string>
+    <string name="error_favorites_description">Не удалось показать избранное</string>
+    <string name="music_recognition_not_found_label">Не удалось распознать трек...</string>
+    <string name="privacy_shield_learn_more_text">"Подробнее о функции \"Что сейчас играет?\"... "</string>
+    <string name="listen_on_description">Послушать в...</string>
+    <string name="add_to_liked_songs_description">Добавить в \"Понравившаяся музыка\"</string>
+    <string name="clear_history_dialog_message">Очистить историю распознанных треков?</string>
+    <string name="menu_go_to_song_description">Перейти к треку</string>
+    <string name="remove_song_confirmation">Удалить \"%1$s\" от %2$s из списка распознанных треков?</string>
+    <string name="remove_button">Удалить</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="menu_add_to_favorites_description">Добавить в избранное</string>
+    <string name="menu_remove_from_history_description">Удалить из истории</string>
+    <string name="menu_remove_from_favorites_description">Удалить из избранного</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_names">
+        <item>Пустая миска</item>
+        <item>Резцы</item>
+        <item>Рыба</item>
+        <item>Курица</item>
+        <item>Угощение</item>
+    </string-array>
+</resources>

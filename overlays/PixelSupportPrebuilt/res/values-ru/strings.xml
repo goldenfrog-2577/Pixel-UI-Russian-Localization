@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диагностика Pixel</string>
+    <string name="bluetooth_diagnostic_entry_summary">Проверьте подключение на устройстве</string>
+    <string name="bluetooth_select_device_no_device_found_title">Устройства не найдены. Чтобы запустить диагностику, подключите хотя бы одно устройство.</string>
+    <string name="battery_diagnostic_entry_summary">Запустите тесты для проверки батареи</string>
+    <string name="hub_bluetooth_entrypoint_sub_title">Проверьте подключение на устройстве</string>
+    <string name="battery_diagnostic_footer_description">Чтобы получать контекстные рекомендации по решению проблем с батареей, нужно предоставить разрешение \"Устройства поблизости\".</string>
+    <string name="cannot_connect_banner_content_others">"Сделайте следующее:
+
+1. Перезапустите устройство.
+2. Удалите его из списка подключений на вашем Pixel.
+3. Переведите устройство в режим сопряжения. 
+4. Снова установите подключение с вашим Pixel."</string>
+    <string name="bluetooth_illustration_other_devices_step1_content">"Сделайте следующее:
+
+1. Перезапустите устройство.
+2. Удалите его из списка подключений на вашем Pixel.
+3. Переведите устройство в режим сопряжения.
+4. Подключитесь его к вашему Pixel ещё раз."</string>
+    <string name="button_reboot_phone_content">Если ваш аксессуар был подключен ко многим устройствам, очистите память подключений. См. инструкцию, прилагаемую к вашему аксессуару.</string>
+    <string name="button_reset_accessory_content">Удалите аксессуар из списка подключенных устройств. Переведите аксессуар в режим сопряжения и попробуйте выполнить сопряжение снова.</string>
+    <string name="button_repair_accessory_content">Выключите ваш аксессуар, подождите 5 секунд, а затем снова включите его.</string>
+    <string name="button_move_closer_content">Расположите аксессуар и устройство ближе друг к другу.</string>
+    <string name="hub_device_healthy_sub_title">Ваш Google Pixel работает прекрасно</string>
+    <string name="page_title_thermal_loading">Проверяем характеристики устройства…</string>
+    <string name="bluetooth_model_pixel_buds_pro_2_entry">Pixel Buds 2 Pro</string>
+    <string name="hub_system_update_updates_available_sub_title">Доступно обновление</string>
+    <string name="hub_system_update_available_banner_title">Доступно обновление</string>
+    <string name="hub_system_update_entrypoint_title">Обновление ПО</string>
+    <string name="connectivity_dashboard_restart_phone_content">Одновременно нажмите кнопку питания и увеличения громкости, в появившемся меню нажмите \"Перезапустить\"</string>
+    <string name="touch_dashboard_restart_phone_content">Одновременно нажмите кнопку питания и увеличения громкости, в появившемся меню нажмите \"Перезапустить\"</string>
+    <string name="connectivity_dashboard_move_physical_location_content">Сеть вашего оператора может быть недоступна в некоторых местах, например в подвалах или лифтах. Попробуйте перейти туда, где есть сигнал.</string>
+    <string name="bluetooth_illustration_car_infotainment_step1_content">Выключите и снова включите стереосистему автомобиля</string>
+    <string name="touch_diagnostic_fragment_content">Прежде чем начать, выберите один из вариантов вашей проблемы</string>
+    <string name="touch_diagnostic_entry_summary">Протестируйте настройки и технические компоненты экрана</string>
+</resources>
